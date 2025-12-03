@@ -1,0 +1,8 @@
+= SYP Rebase - Merge - Exercise Documentary
+
+1. create a repository using *git init repo-name*  in the terminal, exchange repo-name with your desired repository name
+
+2. use *cd repo-name* to switch into your repository folder
+3. *touch onMain.md* to create the file and commit using *git add .* to add the file then *git commit -m "initial commit"* to make the first commit
+4. *git checkout -b a-feature* to create and checkout the feature branch
+5. *touch onBranch.md* to create the next file
