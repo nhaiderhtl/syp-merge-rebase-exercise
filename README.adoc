@@ -7,3 +7,4 @@
 4. *git checkout -b a-feature* to create and checkout the feature branch
 5. *touch onBranch.md* to create the next file
 6. use *nano onBranch.md* and write some lines in the file. When finishing press *CTRL + S && CTRL + X*
+7. History: image:assets/history.png[]
